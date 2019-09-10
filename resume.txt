@@ -1,3 +1,4 @@
 name: Mike Nguyen
 occupation: Cybertek student
 objective: job
+preferred rate: enough 
